@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<build started="31.08.2015 10:49:44">
+  <project targets="Build" file="d:\Work\sandbox\cpp\LoggerTest\LoggerTest.sln" started="31.08.2015 10:49:44">
+    <target name="ValidateSolutionConfiguration" started="31.08.2015 10:49:44">
+      <message importance="Normal" started="31.08.2015 10:49:44"><![CDATA[Building solution configuration "Debug|win32".]]></message>
+    </target>
+    <target name="ValidateToolsVersions" started="31.08.2015 10:49:44" />
+    <target name="ValidateProjects" started="31.08.2015 10:49:44" />
+    <target name="Build" started="31.08.2015 10:49:44">
+      <project file="d:\Work\sandbox\cpp\LoggerTest\Project1\Project1.vcxproj" started="31.08.2015 10:49:44">
+        <target name="_CheckForInvalidConfigurationAndPlatform" started="31.08.2015 10:49:44" />
+        <target name="_PrepareForBuild" started="31.08.2015 10:49:44" />
+        <target name="_PrepareForReferenceResolution" started="31.08.2015 10:49:44" />
+        <target name="BeforeResolveReferences" started="31.08.2015 10:49:44" />
+        <target name="AssignProjectConfiguration" started="31.08.2015 10:49:44" />
+        <target name="_SplitProjectReferencesByFileExistence" started="31.08.2015 10:49:44" />
+        <target name="ResolveProjectReferences" started="31.08.2015 10:49:44" />
+        <target name="GetFrameworkPaths" started="31.08.2015 10:49:44" />
+        <target name="GetReferenceAssemblyPaths" started="31.08.2015 10:49:44" />
+        <target name="SetBuildDefaultEnvironmentVariables" started="31.08.2015 10:49:44" />
+        <target name="GetResolvedWinMD" started="31.08.2015 10:49:44" />
+        <target name="PlatformPrepareForBuild" started="31.08.2015 10:49:44" />
+        <target name="SetCABuildNativeEnvironmentVariables" started="31.08.2015 10:49:44" />
+        <target name="PrepareForBuild" started="31.08.2015 10:49:44" />
+        <target name="GetInstalledSDKLocations" started="31.08.2015 10:49:44" />
+        <target name="ResolveSDKReferences" started="31.08.2015 10:49:44" />
+        <target name="ExpandSDKReferences" started="31.08.2015 10:49:44" />
+        <target name="ResolveAssemblyReferences" started="31.08.2015 10:49:44" />
+        <target name="AfterResolveReferences" started="31.08.2015 10:49:44" />
+        <target name="ResolveReferences" started="31.08.2015 10:49:44" />
+        <target name="InitializeBuildStatus" started="31.08.2015 10:49:44">
+          <message importance="Normal" started="31.08.2015 10:49:44"><![CDATA[Touching "Debug\Project1.tlog\unsuccessfulbuild".]]></message>
+        </target>
+        <target name="BuildGenerateSourcesTraverse" started="31.08.2015 10:49:44" />
+        <target name="BeforeBuildGenerateSources" started="31.08.2015 10:49:44" />
+        <target name="PreBuildEvent" started="31.08.2015 10:49:44" />
+        <target name="_Xsd" started="31.08.2015 10:49:44" />
+        <target name="MakeDirsForMidl" started="31.08.2015 10:49:44" />
+        <target name="ComputeMIDLGeneratedCompileInputs" started="31.08.2015 10:49:44" />
+        <target name="AfterMidl" started="31.08.2015 10:49:44" />
+        <target name="_Midl" started="31.08.2015 10:49:44" />
+        <target name="AfterBuildGenerateSources" started="31.08.2015 10:49:44" />
+        <target name="AfterBuildGenerateSourcesEvent" started="31.08.2015 10:49:44" />
+        <target name="_BuildGenerateSourcesAction" started="31.08.2015 10:49:44" />
+        <target name="BuildGenerateSources" started="31.08.2015 10:49:44" />
+        <target name="BuildCompileTraverse" started="31.08.2015 10:49:44" />
+        <target name="BeforeClCompile" started="31.08.2015 10:49:44" />
+        <target name="ComputeCLInputPDBName" started="31.08.2015 10:49:44" />
+        <target name="ComputeReferenceCLInput" started="31.08.2015 10:49:44" />
+        <target name="WarnCompileDuplicatedFilename" started="31.08.2015 10:49:44" />
+        <target name="MakeDirsForCl" started="31.08.2015 10:49:44" />
+        <target name="AfterClCompile" started="31.08.2015 10:49:44" />
+        <target name="_ClCompile" started="31.08.2015 10:49:44" />
+        <target name="BeforeResourceCompile" started="31.08.2015 10:49:44" />
+        <target name="MakeDirsForResourceCompile" started="31.08.2015 10:49:44" />
+        <target name="AfterResourceCompile" started="31.08.2015 10:49:44" />
+        <target name="_ResourceCompile" started="31.08.2015 10:49:44" />
+        <target name="AfterBuildCompileEvent" started="31.08.2015 10:49:44" />
+        <target name="_BuildCompileAction" started="31.08.2015 10:49:44" />
+        <target name="BuildCompile" started="31.08.2015 10:49:44" />
+        <target name="BuildLinkTraverse" started="31.08.2015 10:49:44" />
+        <target name="ComputeLegacyManifestEmbedding" started="31.08.2015 10:49:44" />
+        <target name="BeforeLink" started="31.08.2015 10:49:44" />
+        <target name="ComputeRCOutputs" started="31.08.2015 10:49:44" />
+        <target name="ComputeRCGeneratedLinkInputs" started="31.08.2015 10:49:44" />
+        <target name="ComputeManifestGeneratedLinkerInputs" started="31.08.2015 10:49:44" />
+        <target name="ComputeCustomBuildOutput" started="31.08.2015 10:49:44" />
+        <target name="ComputeCLGeneratedLinkInputs" started="31.08.2015 10:49:44" />
+        <target name="ComputeLinkInputsFromProject" started="31.08.2015 10:49:44" />
+        <target name="AssignTargetPaths" started="31.08.2015 10:49:44" />
+        <target name="SplitResourcesByCulture" started="31.08.2015 10:49:44" />
+        <target name="CreateCustomManifestResourceNames" started="31.08.2015 10:49:44" />
+        <target name="PrepareResourceNames" started="31.08.2015 10:49:44" />
+        <target name="MakeDirsForLink" started="31.08.2015 10:49:44" />
+        <target name="PreLinkEvent" started="31.08.2015 10:49:44" />
+        <target name="ComputeLinkImportLibraryOutputsForClean" started="31.08.2015 10:49:44" />
+        <target name="AfterLink" started="31.08.2015 10:49:44" />
+        <target name="_Link" started="31.08.2015 10:49:44" />
+        <target name="_ALink" started="31.08.2015 10:49:44" />
+        <target name="_Manifest" started="31.08.2015 10:49:44" />
+        <target name="RegisterOutput" started="31.08.2015 10:49:44" />
+        <target name="ResolvedXDCMake" started="31.08.2015 10:49:44" />
+        <target name="ComputeCLCompileGeneratedXDCFiles" started="31.08.2015 10:49:44" />
+        <target name="MakeDirsForXdcMake" started="31.08.2015 10:49:44" />
+        <target name="_XdcMake" started="31.08.2015 10:49:44" />
+        <target name="ComputeCLCompileGeneratedSbrFiles" started="31.08.2015 10:49:44" />
+        <target name="MakeDirsForBscMake" started="31.08.2015 10:49:44" />
+        <target name="CustomBuildStep" started="31.08.2015 10:49:44">
+          <message importance="Normal" started="31.08.2015 10:49:44"><![CDATA[Description: Performing Custom Build Step]]></message>
+          <message importance="High" started="31.08.2015 10:49:44"><![CDATA[call run_grunt.bat
+:VCEnd]]></message>
+          <message importance="High" started="31.08.2015 10:49:45"><![CDATA[npm WARN package.json LoggerTest@1.0.0 No repository field.]]></message>
+          <message importance="High" started="31.08.2015 10:49:45"><![CDATA[npm WARN package.json LoggerTest@1.0.0 No README data]]></message>
+          <message importance="High" started="31.08.2015 10:49:45"><![CDATA[[4mRunning "test_task" task[24m]]></message>
+          <error file="EXEC" line="0" column="0" subcategory="&#x1B;[31mFatal" started="31.08.2015 10:49:45"><![CDATA[Something is wrong.[39m]]></error>
+          <error code="MSB3073" file="C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets" line="202" column="5" started="31.08.2015 10:49:45"><![CDATA[The command "call run_grunt.bat
+:VCEnd" exited with code 1.]]></error>
+        </target>
+      </project>
+    </target>
+  </project>
+  <warnings>0</warnings>
+  <errors>2</errors>
+  <starttime>31.08.2015 10:49:44</starttime>
+  <endtime>31.08.2015 10:49:45</endtime>
+  <timeelapsed>00:00:01.0100014</timeelapsed>
+</build>
