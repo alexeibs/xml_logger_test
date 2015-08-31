@@ -1,0 +1,7 @@
+*.suo
+*.vcxproj.user
+
+Debug/
+Release/
+node_modules/
+
